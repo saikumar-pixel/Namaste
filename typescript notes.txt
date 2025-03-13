@@ -1,0 +1,4 @@
+Type script: typescript is a superset of JavaScript.
+compiles down to JavaScript.
+optional static typing and type inference.
+
